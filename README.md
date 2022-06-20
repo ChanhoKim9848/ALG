@@ -1,3 +1,3 @@
 # ALG
 
-## Sorting Algorithms
+### Sorting Algorithms
