@@ -3,7 +3,7 @@
 <br>    
       
 ### 정렬 - Sorting
-* [BubbleSort](https://github.com/ChanhoKim9848/ALG/tree/main/BubbleSort)
+* [BubbleSort](https://github.com/ChanhoKim9848/ALG/blob/main/Sorting/BubbleSort/README.md)
   
   
   
