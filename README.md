@@ -1,5 +1,2 @@
-# 알고리즘 - ALGORITHMS
+<input type="text" placeholder="입력하세요!" style="width:300px;height:200px;font-size:30px;">
 
-### 정렬 알고리즘 - Sorting Algorithms
-
-![BubbleSort](#https://github.com/ChanhoKim9848/ALG/tree/main/oo)
