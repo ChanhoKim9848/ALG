@@ -3,4 +3,4 @@
 ### 정렬 알고리즘 - Sorting Algorithms
 <br>  
 <br>  
-[ Bubble Sort ](#ALG)
+![ Bubble Sort ](#ALG)
