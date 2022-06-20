@@ -2,7 +2,7 @@
 <br>            
 <br>    
       
-## 정렬 - Sorting
+### 정렬 - Sorting
 * [BubbleSort](bubble)
   
   
