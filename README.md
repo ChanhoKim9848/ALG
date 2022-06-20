@@ -1,2 +1,10 @@
-<input type="text" placeholder="입력하세요!" style="width:300px;height:200px;font-size:30px;">
-
+<html>
+    <head>
+        <title>example 1-2</title>
+    </head>
+    <body>
+        <H2>example 1-2</H2>
+        <HR>
+        example 1-2
+    </body>
+</h
