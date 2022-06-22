@@ -12,6 +12,6 @@
 <br>  
 
 ### 탐색 - Search
-* [BubbleSort](https://github.com/ChanhoKim9848/ALG/blob/main/Sorting/BubbleSort/README.md)
-* [BubbleSort](https://github.com/ChanhoKim9848/ALG/blob/main/Sorting/BubbleSort/README.md)
-* [BubbleSort](https://github.com/ChanhoKim9848/ALG/blob/main/Sorting/BubbleSort/README.md)
+* [Binary Search](https://github.com/ChanhoKim9848/ALG/blob/main/BS/README.md)
+* [Breadth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/BFS/README.md)
+* [Depth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/DFS/README.md)
