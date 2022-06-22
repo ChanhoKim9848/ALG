@@ -12,6 +12,6 @@
 <br>  
 
 ### 탐색 - Search
-* [Binary Search](https://github.com/ChanhoKim9848/ALG/blob/main/BS/README.md)
-* [Breadth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/BFS/README.md)
-* [Depth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/DFS/README.md)
+* [Binary Search](https://github.com/ChanhoKim9848/ALG/blob/main/Search/BS)
+* [Breadth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/Search/BFS)
+* [Depth-First-Search](https://github.com/ChanhoKim9848/ALG/blob/main/Search/DFS)
